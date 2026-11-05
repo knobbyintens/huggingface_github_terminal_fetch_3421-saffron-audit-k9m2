@@ -1,0 +1,26 @@
+{
+  "repository": "knobbyintens/huggingface_github_terminal_fetch_3421-saffron-audit-k9m2",
+  "audits": [
+    {
+      "issue_number": 7,
+      "artifact": "saffron-pythonkit",
+      "direct_upstream": "jon-tow/starcoderdata-python-edu",
+      "license": "cc-by-4.0",
+      "decision": "approved"
+    },
+    {
+      "issue_number": 8,
+      "artifact": "saffron-cleanrules",
+      "direct_upstream": "codeparrot/github-code-clean",
+      "license": "apache-2.0",
+      "decision": "approved"
+    },
+    {
+      "issue_number": 9,
+      "artifact": "saffron-webmix",
+      "direct_upstream": "codeparrot/github-code",
+      "license": "other",
+      "decision": "blocked"
+    }
+  ]
+}
